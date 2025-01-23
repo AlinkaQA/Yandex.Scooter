@@ -322,3 +322,51 @@
   <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"><img src="https://davidwalsh.name/demo/charlesproxyicon.svg" width="36" height="36" alt="Charles" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p> 
+
+## Процесс работы
+
+<details>
+<summary> 1 спринт </summary>  
+ 
+#### Чек-лист Статус заказа
+
+<img width="884" alt="Снимок экрана 2025-01-23 в 17 16 43" src="https://github.com/user-attachments/assets/c2bdfdc3-7541-4224-8fd6-62e3bcfff14f" />
+
+#### Проверка на валидацию к экрану «Сделать заказ».
+
+<img width="1204" alt="Снимок экрана 2025-01-23 в 17 19 28" src="https://github.com/user-attachments/assets/e5b3c0ad-1715-477a-a41f-92dfde3074ee" />
+
+#### Баги вне тестовой документации
+
+<img width="1129" alt="Снимок экрана 2025-01-23 в 17 20 26" src="https://github.com/user-attachments/assets/31a0defa-98b4-4d03-8bb3-1b073fbda43c" />
+
+</details>
+
+<details>
+<summary> 2 спринт </summary> 
+
+#### Проверка Нотификации и Интернет соединения + верстка
+
+<img width="1273" alt="Снимок экрана 2025-01-23 в 17 22 20" src="https://github.com/user-attachments/assets/738e9a25-cb25-4eb0-854b-7b3e569c13a1" />
+
+</details>
+
+<details>
+<summary> 3 спринт </summary> 
+ 
+#### Чек-лист и результаты выполнения тестов API Яндекс.Самокат				
+
+<img width="941" alt="Снимок экрана 2025-01-23 в 17 23 40" src="https://github.com/user-attachments/assets/bd46739c-02f5-4a2e-a3a5-f38662b191f8" />
+
+#### Выполнение тестов
+
+<details>
+<summary> Баг-репорты </summary> 
+
+
+
+[Тестовая документация](https://docs.google.com/spreadsheets/d/1ebqsCGZcvZDTk6sciUTUwK8tjaZiV2tYjRQjVdww6mA/edit?gid=336872680#gid=336872680)
+
+***
+</details>
+
