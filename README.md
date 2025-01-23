@@ -10,6 +10,7 @@
    - [1 спринт](#1-спринт)
    - [2 спринт](#2-спринт)
    - [3 спринт](#3-спринт)
+- [Выполнение тестов](#выполнение-тестов)
 
 ## Задачи тестировщика
 
@@ -358,10 +359,19 @@
 
 <img width="941" alt="Снимок экрана 2025-01-23 в 17 23 40" src="https://github.com/user-attachments/assets/bd46739c-02f5-4a2e-a3a5-f38662b191f8" />
 
-#### Выполнение тестов
+***
+</details>
+
+## Выполнение тестов
 
 <details>
-<summary> Баг-репорты </summary> 
+<summary> Выполнение тестов </summary> 
+
+<img width="1228" alt="Снимок экрана 2025-01-23 в 17 28 44" src="https://github.com/user-attachments/assets/ab7af3e0-dfaa-4813-a325-d913bd0d2926" />
+<img width="1224" alt="Снимок экрана 2025-01-23 в 17 28 51" src="https://github.com/user-attachments/assets/af44a070-7f2d-4f37-b949-970e012f896b" />
+<img width="1215" alt="Снимок экрана 2025-01-23 в 17 28 58" src="https://github.com/user-attachments/assets/2c92554f-7f55-4e2c-bc1b-d76cf3414678" />
+<img width="1204" alt="Снимок экрана 2025-01-23 в 17 29 04" src="https://github.com/user-attachments/assets/2d0044ef-3d77-4727-8d91-5e07beff17c9" />
+<img width="1218" alt="Снимок экрана 2025-01-23 в 17 29 20" src="https://github.com/user-attachments/assets/fad3f18c-458e-4539-85c3-c3f1be6f0277" />
 
 
 
